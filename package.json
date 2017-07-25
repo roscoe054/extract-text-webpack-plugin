@@ -1,6 +1,6 @@
 {
-  "name": "extract-text-webpack-plugin",
-  "version": "1.0.1",
+  "name": "@qnpm/extract-text-webpack-plugin-ignore-order",
+  "version": "1.1.0",
   "author": "Tobias Koppers @sokra",
   "description": "Extract text from bundle into a file.",
   "peerDependencies": {
